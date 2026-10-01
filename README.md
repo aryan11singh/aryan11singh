@@ -8,7 +8,6 @@
   <a href="https://linkedin.com/in/aryan11singh"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn"/></a>
   <a href="https://capable-dasik-1981c4.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" alt="Portfolio"/></a>
   <a href="mailto:111aryansingh2004@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=3B82F6" alt="Gmail"/></a>
-  <a href="https://github.com/aryan11singh"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=3B82F6" alt="GitHub"/></a>
 </p>
 
 </div>
