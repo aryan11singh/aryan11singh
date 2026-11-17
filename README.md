@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:3B82F6&height=140&text=Aryan%20Singh&fontSize=36&fontColor=F8FAFC&fontAlignY=38&fontFamily=Inter&animation=fadeIn" width="100%" alt="header"/>
