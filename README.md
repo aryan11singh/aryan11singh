@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://aryan11singh.github.io"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/aryan11singh"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn"/></a>
+  <a href="https://codolio.com/profile/aryansingh1511"><img src="https://img.shields.io/badge/Codolio-0F172A?style=for-the-badge&logo=codeforces&logoColor=3B82F6" alt="Codolio"/></a>
   <a href="mailto:111aryansingh2004@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=3B82F6" alt="Gmail"/></a>
 </p>
 
