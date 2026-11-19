@@ -6,9 +6,9 @@
 <h3 align="center">Data Science, Applied AI & Software Engineering <br/> Machine Learning Pipelines | C++ Engines | Python Backends | Intelligent Systems</h3>
 
 <p align="center">
-  <a href="https://aryan11singh.github.io"><img src="https://img.shields.io/badge/Live_Portfolio-aryan11singh.github.io-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Live Portfolio"/></a>
-  <a href="https://linkedin.com/in/aryan11singh"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn"/></a>
-  <a href="mailto:111aryansingh2004@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=3B82F6" alt="Gmail"/></a>
+  <a href="https://aryan11singh.github.io"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/aryan11singh"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn"/></a>
+  <a href="mailto:111aryansingh2004@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=3B82F6" alt="Gmail"/></a>
 </p>
 
 <p align="center">
